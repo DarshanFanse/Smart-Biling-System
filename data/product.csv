@@ -1,0 +1,6 @@
+ItemID,ItemName,Price,StockQty,TaxRate
+101,Rice 5kg Bag,300,2,0.05
+102,Cooking Oil 1L,180,37,0.05
+103,Wheat Flour 10kg,400,22,0.05
+104,Soap Pack,60,7,0.05
+105,Toothpaste 200g,90,24,0.05
