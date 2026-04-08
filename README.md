@@ -1,4 +1,4 @@
-# SL LAB PROJECT
+# Smart Billing & Inventory Management System
 
 ## What this project contains
 - `src/billing.py` — Main Python script for billing (Tkinter GUI).
